@@ -10,3 +10,6 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Data is like people - interrogate it hard enough and it will tell you whatever you want to hear.
 
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=vishal-TH&theme=vision-friendly-dark&show_icons=true">
