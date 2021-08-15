@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hola, I'm Vishal Kumar! 👋
 
-<!--
-**vishal-TH/vishal-TH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on some ML algos.
+- 🌱 I’m currently learning Data Science, ML & AI.
+- 👯 I’m looking to collaborate on few PyTorch projects with experienced data scientists.
+- 🤔 I’m looking for help with Time series related projects.
+- 💬 Ask me about Data Preprocessing, Data Wrangling, Data Mining, Machine Learning, Deep Learning, etc.
+- 📫 How to reach me: vishalbch@gmail.com
+- 📄 Know about me and connect with me at: www.linkedin.com/in/vishal-kumar-4406881b3
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: Data is like people - interrogate it hard enough and it will tell you whatever you want to hear.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
