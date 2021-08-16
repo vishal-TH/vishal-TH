@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with Time series related projects.
 - 💬 Ask me about Data Preprocessing, Data Wrangling, Data Mining, Machine Learning, Deep Learning, etc.
 - 📫 How to reach me: vishalbch@gmail.com
-- 📄 Know about me and connect with me at: www.linkedin.com/in/vishal-kumar-4406881b3
+- 📄 Know about me and connect with me at: https://www.linkedin.com/in/vishal-th/
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Data is like people - interrogate it hard enough and it will tell you whatever you want to hear.
 
